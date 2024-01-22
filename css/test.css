@@ -1,0 +1,30 @@
+body{
+  background-color: white;
+text-align: center;
+
+}
+p{
+  color:crimson ;
+}
+.one{
+  font-family: "DejaVu Sans Mono";
+  border: black;
+}
+a{
+text-decoration: none;
+  color: #AB0613;
+ }
+a:hover{
+color: #d9edf6;
+  font-size: 60px;
+
+  border-bottom: black 10px solid;
+}
+#jjj{
+  background-color: white;
+  font-family: cursive;
+  border: black 9px solid ;
+}
+#jjj{
+  font-size: 30px;
+}

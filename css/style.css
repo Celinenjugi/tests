@@ -1,0 +1,25 @@
+body{
+  background-color: white;
+text-align: left;
+    margin: 40px;
+
+}
+p{
+ color: limegreen;
+ }
+.one{
+  color: orangered;
+    font-size: 30px;
+font-family: "DejaVu Sans";
+    font-weight: bold;
+}
+.two{
+ border: #990a00 10px solid;
+border-radius:  20px;
+    padding: 50px;
+ }
+.three{
+    border: #990a00;
+    width: 10px;
+height: 10px;
+}

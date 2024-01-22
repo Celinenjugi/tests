@@ -1,0 +1,12 @@
+body{
+    background-color: #FF5943;
+    text-align: center;
+}
+.one{
+    text-align: right;
+    width: 50px;
+}
+.four{
+    width: 90px;
+    height: 90px;
+}
